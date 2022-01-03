@@ -1,0 +1,31 @@
+.details{
+    background-color: #22254b;
+    display: flex;
+    flex-direction: row;
+}
+.details-img{
+    /* width: 600px; */
+    width: 32vw;
+}
+
+.details-info >h1{
+    padding: 8px 20px;
+    color: #fff;
+    background-color:#373b69;
+    border-radius: 10px;
+}
+.details-info > h2{
+    width: 56px;
+    padding: 0px 20px;
+    color: #fff;
+    background-color: #373b69;
+    border-radius: 10px;
+}
+.details-text{
+    margin: 100px;
+  padding: 0px 130px;
+}
+
+.details-text > p{
+    color: #fff;
+}
